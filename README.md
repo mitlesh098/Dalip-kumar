@@ -1,2 +1,3 @@
 # Dalip-kumar
-this is my first repository
+This is my first Tepository
+Author - Dipu
